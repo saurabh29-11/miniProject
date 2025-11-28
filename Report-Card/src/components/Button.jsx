@@ -27,7 +27,7 @@ export default function Button({
             disabled={disabled}
             {...rest}
         >
-            {/* Left icon */}
+            {/* Left  icon */}
             {icon && <span className="text-lg leading-none">{icon}</span>}
 
             {/* Button text */}
