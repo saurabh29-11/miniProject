@@ -1,0 +1,48 @@
+{
+  "students": [
+    {
+      "id": "61dc",
+      "name": "Saurabh Saini",
+      "email": "saurabhsaini.mtr@outlook.com",
+      "sectionId": "0bf8",
+      "enrollmentDate": "2023-08-14"
+    }
+  ],
+  "sections": [
+    {
+      "id": "0bf8",
+      "name": "F",
+      "description": ""
+    }
+  ],
+  "results": [
+    {
+      "id": "8f9f",
+      "studentId": "61dc",
+      "subject": "A",
+      "marks": 60,
+      "examDate": ""
+    },
+    {
+      "id": "b289",
+      "studentId": "61dc",
+      "subject": "B",
+      "marks": 70,
+      "examDate": ""
+    },
+    {
+      "id": "9e55",
+      "studentId": "61dc",
+      "subject": "C",
+      "marks": 80,
+      "examDate": ""
+    },
+    {
+      "id": "a889",
+      "studentId": "61dc",
+      "subject": "D",
+      "marks": 90,
+      "examDate": ""
+    }
+  ]
+}
